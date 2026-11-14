@@ -1,0 +1,722 @@
+{
+ "atacama": {
+  "n_obs": 260,
+  "carbonate": 0.03,
+  "clay": 0.49,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.07,
+  "clay_2um": 0.98,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 129,
+  "n_1um": 131,
+  "top_minerals": [
+   "Nanohematite",
+   "Montmorillonite",
+   "Muscovite"
+  ]
+ },
+ "bayuda": {
+  "n_obs": 192,
+  "carbonate": 0.01,
+  "clay": 0.44,
+  "sulfate": 0.0,
+  "iron_oxide": 0.51,
+  "carbonate_2um": 0.02,
+  "clay_2um": 0.9,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 0.99,
+  "n_2um": 94,
+  "n_1um": 98,
+  "top_minerals": [
+   "nHematit+fg-Goethit",
+   "Kaol+Musc_intimate",
+   "Muscovite"
+  ]
+ },
+ "cotm": {
+  "n_obs": 120,
+  "carbonate": 0.02,
+  "clay": 0.02,
+  "sulfate": 0.07,
+  "iron_oxide": 0.12,
+  "carbonate_2um": 0.02,
+  "clay_2um": 0.02,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 0.68,
+  "n_2um": 98,
+  "n_1um": 22,
+  "top_minerals": [
+   "Grass_Golden_Dry",
+   "Cronstedtite",
+   "Blue_Efflorscnt_Min"
+  ]
+ },
+ "dallol": {
+  "n_obs": 292,
+  "carbonate": 0.01,
+  "clay": 0.05,
+  "sulfate": 0.24,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.02,
+  "clay_2um": 0.1,
+  "sulfate_2um": 0.35,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 147,
+  "n_1um": 145,
+  "top_minerals": [
+   "Jarosite",
+   "Perchlorate_Mg",
+   "nHematit+fg-Goethit"
+  ]
+ },
+ "deathvalley": {
+  "n_obs": 213,
+  "carbonate": 0.46,
+  "clay": 0.23,
+  "sulfate": 0.0,
+  "iron_oxide": 0.48,
+  "carbonate_2um": 0.9,
+  "clay_2um": 0.44,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 110,
+  "n_1um": 103,
+  "top_minerals": [
+   "Basalt_weathered",
+   "Calcite",
+   "Calcite.8+Ca-Montmor.2"
+  ]
+ },
+ "gilf": {
+  "n_obs": 202,
+  "carbonate": 0.0,
+  "clay": 0.5,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.0,
+  "clay_2um": 1.0,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 101,
+  "n_1um": 101,
+  "top_minerals": [
+   "nHematit+fg-Goethit",
+   "Kaolin_Smect",
+   "Nanohematite"
+  ]
+ },
+ "hawaii": {
+  "n_obs": 131,
+  "carbonate": 0.09,
+  "clay": 0.08,
+  "sulfate": 0.02,
+  "iron_oxide": 0.54,
+  "carbonate_2um": 0.22,
+  "clay_2um": 0.2,
+  "sulfate_2um": 0.06,
+  "iron_oxide_1um": 0.92,
+  "n_2um": 54,
+  "n_1um": 77,
+  "top_minerals": [
+   "Nanohematite",
+   "Goethite_Thin_Film",
+   "Grass_Golden_Dry"
+  ]
+ },
+ "kamil": {
+  "n_obs": 186,
+  "carbonate": 0.01,
+  "clay": 0.5,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.01,
+  "clay_2um": 1.0,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 93,
+  "n_1um": 93,
+  "top_minerals": [
+   "nHematit+fg-Goethit",
+   "Kaol.5+MuscCU91-250A",
+   "Kaolin_Smect"
+  ]
+ },
+ "lanzarote": {
+  "n_obs": 9,
+  "carbonate": 0.11,
+  "clay": 0.0,
+  "sulfate": 0.0,
+  "iron_oxide": 0.56,
+  "carbonate_2um": 0.25,
+  "clay_2um": 0.0,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 4,
+  "n_1um": 5,
+  "top_minerals": [
+   "Basalt_weathered",
+   "Grass_Golden_Dry",
+   "Hematite"
+  ]
+ },
+ "lut": {
+  "n_obs": 124,
+  "carbonate": 0.27,
+  "clay": 0.5,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.55,
+  "clay_2um": 1.0,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 62,
+  "n_1um": 62,
+  "top_minerals": [
+   "Nanohematite",
+   "Calcite.80+Mont_Swy-1",
+   "Muscovite"
+  ]
+ },
+ "mdrs": {
+  "n_obs": 364,
+  "carbonate": 0.16,
+  "clay": 0.44,
+  "sulfate": 0.0,
+  "iron_oxide": 0.48,
+  "carbonate_2um": 0.32,
+  "clay_2um": 0.85,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 188,
+  "n_1um": 176,
+  "top_minerals": [
+   "Nanohematite",
+   "Basalt_weathered",
+   "Montmorillonite"
+  ]
+ },
+ "meteor": {
+  "n_obs": 267,
+  "carbonate": 0.38,
+  "clay": 0.09,
+  "sulfate": 0.06,
+  "iron_oxide": 0.46,
+  "carbonate_2um": 0.71,
+  "clay_2um": 0.17,
+  "sulfate_2um": 0.12,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 143,
+  "n_1um": 124,
+  "top_minerals": [
+   "Nanohematite",
+   "Calcite+Dolomite.5",
+   "Calcite"
+  ]
+ },
+ "puna": {
+  "n_obs": 104,
+  "carbonate": 0.12,
+  "clay": 0.37,
+  "sulfate": 0.01,
+  "iron_oxide": 0.48,
+  "carbonate_2um": 0.22,
+  "clay_2um": 0.7,
+  "sulfate_2um": 0.02,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 54,
+  "n_1um": 50,
+  "top_minerals": [
+   "Nanohematite",
+   "Prehnite+.75Chlorite",
+   "Clinochlore"
+  ]
+ },
+ "qaidam": {
+  "n_obs": 295,
+  "carbonate": 0.0,
+  "clay": 0.35,
+  "sulfate": 0.12,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.01,
+  "clay_2um": 0.7,
+  "sulfate_2um": 0.22,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 147,
+  "n_1um": 148,
+  "top_minerals": [
+   "Goethite_Thin_Film",
+   "Kaol+Musc_intimate",
+   "Muscov+Jaros"
+  ]
+ },
+ "riotinto": {
+  "n_obs": 70,
+  "carbonate": 0.09,
+  "clay": 0.23,
+  "sulfate": 0.0,
+  "iron_oxide": 0.4,
+  "carbonate_2um": 0.14,
+  "clay_2um": 0.38,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 42,
+  "n_1um": 28,
+  "top_minerals": [
+   "Grass_Golden_Dry",
+   "Jarosite_on_Qtzite",
+   "Muscovite"
+  ]
+ },
+ "sandsea": {
+  "n_obs": 197,
+  "carbonate": 0.0,
+  "clay": 0.49,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.0,
+  "clay_2um": 0.98,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 98,
+  "n_1um": 99,
+  "top_minerals": [
+   "nHematit+fg-Goethit",
+   "Kaolin_Smect",
+   "Kaol_Wxl+0.5Musc_Ruby"
+  ]
+ },
+ "scan-abutartur": {
+  "n_obs": 234,
+  "carbonate": 0.5,
+  "clay": 0.44,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 1.0,
+  "clay_2um": 0.89,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 117,
+  "n_1um": 117,
+  "top_minerals": [
+   "Goethite0.02+Quartz",
+   "Calcite.33+Kaol.33+Mus",
+   "Calcite+.33Muscov"
+  ]
+ },
+ "scan-dakhla-north": {
+  "n_obs": 186,
+  "carbonate": 0.49,
+  "clay": 0.23,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.99,
+  "clay_2um": 0.45,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 93,
+  "n_1um": 93,
+  "top_minerals": [
+   "Calcite",
+   "Goethite0.02+Quartz",
+   "Basalt_weathered"
+  ]
+ },
+ "scan-kharga-east": {
+  "n_obs": 151,
+  "carbonate": 0.49,
+  "clay": 0.03,
+  "sulfate": 0.0,
+  "iron_oxide": 0.51,
+  "carbonate_2um": 1.0,
+  "clay_2um": 0.05,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 74,
+  "n_1um": 77,
+  "top_minerals": [
+   "Calcite",
+   "Goethite_Thin_Film",
+   "Basalt_weathered"
+  ]
+ },
+ "scan-kharga-edfu": {
+  "n_obs": 156,
+  "carbonate": 0.5,
+  "clay": 0.0,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 1.0,
+  "clay_2um": 0.0,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 78,
+  "n_1um": 78,
+  "top_minerals": [
+   "Calcite",
+   "Goethite0.02+Quartz",
+   "Basalt_weathered"
+  ]
+ },
+ "scan-kurkur": {
+  "n_obs": 295,
+  "carbonate": 0.5,
+  "clay": 0.26,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 1.0,
+  "clay_2um": 0.52,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 147,
+  "n_1um": 148,
+  "top_minerals": [
+   "Goethite0.02+Quartz",
+   "Calcite+.33Muscov",
+   "Calcite"
+  ]
+ },
+ "scan-nasser-east": {
+  "n_obs": 266,
+  "carbonate": 0.04,
+  "clay": 0.45,
+  "sulfate": 0.01,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.08,
+  "clay_2um": 0.89,
+  "sulfate_2um": 0.02,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 133,
+  "n_1um": 133,
+  "top_minerals": [
+   "nHematit+fg-Goethit",
+   "Kaol.5+MuscCU91-250A",
+   "Kaol+Musc_intimate"
+  ]
+ },
+ "tibesti": {
+  "n_obs": 203,
+  "carbonate": 0.05,
+  "clay": 0.14,
+  "sulfate": 0.0,
+  "iron_oxide": 0.58,
+  "carbonate_2um": 0.13,
+  "clay_2um": 0.33,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 86,
+  "n_1um": 117,
+  "top_minerals": [
+   "Nanohematite",
+   "Beidellite+Montmor",
+   "Goethite_Thin_Film"
+  ]
+ },
+ "wabar": {
+  "n_obs": 131,
+  "carbonate": 0.05,
+  "clay": 0.32,
+  "sulfate": 0.0,
+  "iron_oxide": 0.62,
+  "carbonate_2um": 0.12,
+  "clay_2um": 0.84,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 50,
+  "n_1um": 81,
+  "top_minerals": [
+   "Fe-Hydroxide",
+   "Muscovite",
+   "Goethite_Thin_Film"
+  ]
+ },
+ "whitedesert": {
+  "n_obs": 102,
+  "carbonate": 0.49,
+  "clay": 0.46,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.98,
+  "clay_2um": 0.92,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 51,
+  "n_1um": 51,
+  "top_minerals": [
+   "Calcite.33+Kaol.33+Mus",
+   "Basalt_weathered",
+   "Goethite0.02+Quartz"
+  ]
+ },
+ "scan-aksaichin": {
+  "n_obs": 106,
+  "carbonate": 0.26,
+  "clay": 0.43,
+  "sulfate": 0.03,
+  "iron_oxide": 0.53,
+  "carbonate_2um": 0.56,
+  "clay_2um": 0.92,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 50,
+  "n_1um": 56,
+  "top_minerals": [
+   "Goethite0.02+Quartz",
+   "Muscovite",
+   "Calcite+.33Muscov"
+  ]
+ },
+ "scan-arkatag": {
+  "n_obs": 101,
+  "carbonate": 0.38,
+  "clay": 0.29,
+  "sulfate": 0.01,
+  "iron_oxide": 0.45,
+  "carbonate_2um": 0.68,
+  "clay_2um": 0.52,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 56,
+  "n_1um": 45,
+  "top_minerals": [
+   "Calcite+Dolomite.5",
+   "Calcite.8+Ca-Montmor.2",
+   "Siderite"
+  ]
+ },
+ "scan-atacama-coast": {
+  "n_obs": 321,
+  "carbonate": 0.21,
+  "clay": 0.47,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.43,
+  "clay_2um": 0.95,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 159,
+  "n_1um": 162,
+  "top_minerals": [
+   "Nanohematite",
+   "Calcite.33+Kaol.33+Mus",
+   "Kaol.5+MuscCU91-250A"
+  ]
+ },
+ "scan-changtang": {
+  "n_obs": 111,
+  "carbonate": 0.31,
+  "clay": 0.47,
+  "sulfate": 0.0,
+  "iron_oxide": 0.44,
+  "carbonate_2um": 0.55,
+  "clay_2um": 0.84,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 62,
+  "n_1um": 49,
+  "top_minerals": [
+   "Goethite_Thin_Film",
+   "Goethite0.02+Quartz",
+   "Calcite+.33Muscov"
+  ]
+ },
+ "scan-hala": {
+  "n_obs": 98,
+  "carbonate": 0.49,
+  "clay": 0.13,
+  "sulfate": 0.03,
+  "iron_oxide": 0.26,
+  "carbonate_2um": 0.66,
+  "clay_2um": 0.18,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 73,
+  "n_1um": 25,
+  "top_minerals": [
+   "Calcite",
+   "Calcite+Dolomite.5",
+   "Goethite_Thin_Film"
+  ]
+ },
+ "scan-haruj": {
+  "n_obs": 395,
+  "carbonate": 0.23,
+  "clay": 0.45,
+  "sulfate": 0.0,
+  "iron_oxide": 0.51,
+  "carbonate_2um": 0.48,
+  "clay_2um": 0.93,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 192,
+  "n_1um": 203,
+  "top_minerals": [
+   "Actinolite",
+   "Calcite.33+Kaol.33+Mus",
+   "Muscovite"
+  ]
+ },
+ "scan-haruj-south": {
+  "n_obs": 195,
+  "carbonate": 0.34,
+  "clay": 0.51,
+  "sulfate": 0.0,
+  "iron_oxide": 0.49,
+  "carbonate_2um": 0.67,
+  "clay_2um": 1.0,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 99,
+  "n_1um": 96,
+  "top_minerals": [
+   "Basalt_weathered",
+   "Kaol+Musc_intimate",
+   "Calcite.80+Mont_Swy-1"
+  ]
+ },
+ "scan-hohxil": {
+  "n_obs": 64,
+  "carbonate": 0.55,
+  "clay": 0.19,
+  "sulfate": 0.02,
+  "iron_oxide": 0.41,
+  "carbonate_2um": 0.95,
+  "clay_2um": 0.32,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 0.96,
+  "n_2um": 37,
+  "n_1um": 27,
+  "top_minerals": [
+   "Calcite",
+   "Nanohematite",
+   "Goethite_Thin_Film"
+  ]
+ },
+ "scan-ica": {
+  "n_obs": 223,
+  "carbonate": 0.01,
+  "clay": 0.47,
+  "sulfate": 0.02,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 0.03,
+  "clay_2um": 0.94,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 112,
+  "n_1um": 111,
+  "top_minerals": [
+   "Muscovite",
+   "Goethite",
+   "Muscovite+Chlorite"
+  ]
+ },
+ "scan-moquegua": {
+  "n_obs": 274,
+  "carbonate": 0.0,
+  "clay": 0.43,
+  "sulfate": 0.0,
+  "iron_oxide": 0.51,
+  "carbonate_2um": 0.01,
+  "clay_2um": 0.88,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 133,
+  "n_1um": 141,
+  "top_minerals": [
+   "nHematit+fg-Goethit",
+   "Muscovite",
+   "Nanohematite"
+  ]
+ },
+ "scan-ngari": {
+  "n_obs": 83,
+  "carbonate": 0.43,
+  "clay": 0.04,
+  "sulfate": 0.12,
+  "iron_oxide": 0.48,
+  "carbonate_2um": 0.84,
+  "clay_2um": 0.07,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 43,
+  "n_1um": 40,
+  "top_minerals": [
+   "Calcite+Dolomite.5",
+   "Goethite_Thin_Film",
+   "Copiapite"
+  ]
+ },
+ "scan-pamir": {
+  "n_obs": 32,
+  "carbonate": 0.78,
+  "clay": 0.03,
+  "sulfate": 0.0,
+  "iron_oxide": 0.16,
+  "carbonate_2um": 0.93,
+  "clay_2um": 0.04,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 27,
+  "n_1um": 5,
+  "top_minerals": [
+   "Calcite+Dolomite.5",
+   "Calcite",
+   "Epidote"
+  ]
+ },
+ "scan-qena-east": {
+  "n_obs": 180,
+  "carbonate": 0.5,
+  "clay": 0.4,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 1.0,
+  "clay_2um": 0.8,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 90,
+  "n_1um": 90,
+  "top_minerals": [
+   "Goethite0.02+Quartz",
+   "Calcite.33+Kaol.33+Mus",
+   "Calcite+.33Muscov"
+  ]
+ },
+ "scan-aksaichin-best": {
+  "n_obs": 91,
+  "carbonate": 0.05,
+  "clay": 0.47,
+  "sulfate": 0.01,
+  "iron_oxide": 0.51,
+  "carbonate_2um": 0.11,
+  "clay_2um": 0.96,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 45,
+  "n_1um": 46,
+  "top_minerals": [
+   "Muscovite",
+   "Goethite0.02+Quartz",
+   "Goethite_Thin_Film"
+  ]
+ },
+ "scan-kharga-best": {
+  "n_obs": 154,
+  "carbonate": 0.5,
+  "clay": 0.25,
+  "sulfate": 0.0,
+  "iron_oxide": 0.5,
+  "carbonate_2um": 1.0,
+  "clay_2um": 0.51,
+  "sulfate_2um": 0.0,
+  "iron_oxide_1um": 1.0,
+  "n_2um": 77,
+  "n_1um": 77,
+  "top_minerals": [
+   "Goethite0.02+Quartz",
+   "Calcite",
+   "Basalt_weathered"
+  ]
+ }
+}

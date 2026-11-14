@@ -1,0 +1,175 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "mars-jezero - Jezero Crater",
+    "target": "mars-jezero"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.27181,
+       18.60904
+      ],
+      [
+       77.62819,
+       18.60904
+      ],
+      [
+       77.62819,
+       18.27096
+      ],
+      [
+       77.27181,
+       18.27096
+      ],
+      [
+       77.27181,
+       18.60904
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "mars-gale - Gale Crater",
+    "target": "mars-gale"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       137.63021,
+       -5.23096
+      ],
+      [
+       137.96979,
+       -5.23096
+      ],
+      [
+       137.96979,
+       -5.56904
+      ],
+      [
+       137.63021,
+       -5.56904
+      ],
+      [
+       137.63021,
+       -5.23096
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "mars-arcadia - Arcadia Planitia",
+    "target": "mars-arcadia"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -160.22066,
+       40.16904
+      ],
+      [
+       -159.77934,
+       40.16904
+      ],
+      [
+       -159.77934,
+       39.83096
+      ],
+      [
+       -160.22066,
+       39.83096
+      ],
+      [
+       -160.22066,
+       40.16904
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "mars-arsia - Arsia Mons pits",
+    "target": "mars-arsia"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -120.26081,
+       -8.09096
+      ],
+      [
+       -119.91919,
+       -8.09096
+      ],
+      [
+       -119.91919,
+       -8.42904
+      ],
+      [
+       -120.26081,
+       -8.42904
+      ],
+      [
+       -120.26081,
+       -8.09096
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "mars-meridiani - Meridiani Planum",
+    "target": "mars-meridiani"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -5.66914,
+       -1.78096
+      ],
+      [
+       -5.33086,
+       -1.78096
+      ],
+      [
+       -5.33086,
+       -2.11904
+      ],
+      [
+       -5.66914,
+       -2.11904
+      ],
+      [
+       -5.66914,
+       -1.78096
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

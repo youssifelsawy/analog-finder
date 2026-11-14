@@ -1,0 +1,131 @@
+{
+ "val": [
+  {
+   "site": "lanzarote",
+   "target": "moon-pit",
+   "why": "Lava tubes; ESA PANGAEA cave training",
+   "rank": 4,
+   "n": 32,
+   "m": 0.7325158781173705
+  },
+  {
+   "site": "hawaii",
+   "target": "moon-pit",
+   "why": "Lava tubes; lunar regolith tests",
+   "rank": 5,
+   "n": 32,
+   "m": 0.7211960995229726
+  },
+  {
+   "site": "cotm",
+   "target": "moon-pit",
+   "why": "Lava tubes; NASA field research",
+   "rank": 3,
+   "n": 32,
+   "m": 0.7472071432271181
+  },
+  {
+   "site": "lanzarote",
+   "target": "mars-arsia",
+   "why": "Lava tubes",
+   "rank": 5,
+   "n": 32,
+   "m": 0.6916780801794794
+  },
+  {
+   "site": "hawaii",
+   "target": "mars-arsia",
+   "why": "Lava tubes",
+   "rank": 4,
+   "n": 32,
+   "m": 0.7121630099694536
+  },
+  {
+   "site": "haughton",
+   "target": "mars-arcadia",
+   "why": "Polar desert with ground ice",
+   "rank": 2,
+   "n": 32,
+   "m": 0.6730451300087047
+  },
+  {
+   "site": "dryvalleys",
+   "target": "mars-arcadia",
+   "why": "Cold dry permafrost",
+   "rank": 3,
+   "n": 32,
+   "m": 0.6529200428090111
+  },
+  {
+   "site": "allanhills",
+   "target": "moon-sp",
+   "why": "Extreme steady cold, ice",
+   "rank": 2,
+   "n": 32,
+   "m": 0.6313179508444593
+  },
+  {
+   "site": "atacama",
+   "target": "mars-gale",
+   "why": "Driest desert, Mars soil tests",
+   "rank": 1,
+   "n": 32,
+   "m": 0.749575474835226
+  },
+  {
+   "site": "atacama",
+   "target": "mars-meridiani",
+   "why": "Driest desert, sulfates",
+   "rank": 2,
+   "n": 32,
+   "m": 0.7333598403663412
+  },
+  {
+   "site": "riotinto",
+   "target": "mars-meridiani",
+   "why": "Jarosite and hematite like Meridiani",
+   "rank": 14,
+   "n": 32,
+   "m": 0.4829914907153454
+  },
+  {
+   "site": "mistastin",
+   "target": "moon-high",
+   "why": "Anorthosite impact crater",
+   "rank": 1,
+   "n": 32,
+   "m": 0.7137441927027328
+  },
+  {
+   "site": "meteor",
+   "target": "moon-high",
+   "why": "Apollo crater training",
+   "rank": 5,
+   "n": 32,
+   "m": 0.5097018604453544
+  },
+  {
+   "site": "holuhraun",
+   "target": "moon-mare",
+   "why": "Basalt plains; Apollo geology training",
+   "rank": 9,
+   "n": 32,
+   "m": 0.6360138888888889
+  },
+  {
+   "site": "haughton",
+   "target": "mars-jezero",
+   "why": "Impact crater with carbonates",
+   "rank": 2,
+   "n": 32,
+   "m": 0.676979026484109
+  }
+ ],
+ "sens": "mars-jezero\n   #1: scan-aksaichin 52%, scan-kharga-best 45%, scan-kharga-east 2%, haughton 1%\n   in top 3: scan-kharga-best 69%, scan-kharga-east 63%, scan-aksaichin 61%, scan-kharga-edfu 39%, scan-ngari 33%\nmoon-pit\n   #1: khaybar 86%, cotm 12%, jawa 2%\n   in top 3: khaybar 100%, jawa 100%, cotm 90%, lanzarote 10%, hawaii 0%\nmoon-sp\n   #1: dryvalleys 63%, scan-karakoram 27%, haughton 9%, mistastin 1%, allanhills 0%\n   in top 3: dryvalleys 100%, scan-karakoram 90%, scan-stelias 41%, allanhills 40%, haughton 26%\nmars-gale\n   #1: scan-atacama-coast 92%, scan-aksaichin-best 8%\n   in top 3: scan-atacama-coast 100%, atacama 98%, scan-aksaichin-best 57%, scan-ica 40%, puna 2%\nmars-meridiani\n   #1: scan-atacama-coast 87%, qaidam 13%\n   in top 3: scan-atacama-coast 100%, qaidam 100%, atacama 97%, puna 4%\nmars-arcadia\n   #1: allanhills 85%, scan-aksaichin-best 11%, scan-aksaichin 2%, scan-hohxil 2%, scan-hala 0%\n   in top 3: allanhills 96%, scan-aksaichin-best 72%, scan-aksaichin 38%, scan-hohxil 32%, scan-victoria 30%",
+ "scanTop1": 0.9865,
+ "scanTop5": 0.9255,
+ "wdMedian": 12,
+ "wdP5": 8,
+ "wdP95": 19,
+ "n": 2000
+}

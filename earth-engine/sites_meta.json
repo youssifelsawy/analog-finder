@@ -1,0 +1,1159 @@
+[
+ {
+  "source": "estimate",
+  "id": "atacama",
+  "name": "Atacama Desert (Yungay)",
+  "region": "Chile",
+  "lat": -24.08,
+  "lon": -69.92,
+  "status": "known",
+  "elev": 1000,
+  "precip": 2,
+  "ndvi": 0.01,
+  "mat": 16,
+  "dtr": 28,
+  "slope": 3,
+  "lith": [
+   "evaporite"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "The driest non-polar desert on Earth. Used for Mars soil and life-detection drilling tests (NASA ARADS)."
+ },
+ {
+  "source": "estimate",
+  "id": "haughton",
+  "name": "Haughton Crater, Devon Island",
+  "region": "Nunavut, Canada",
+  "lat": 75.38,
+  "lon": -89.68,
+  "status": "known",
+  "elev": 200,
+  "precip": 130,
+  "ndvi": 0.03,
+  "mat": -16,
+  "dtr": 8,
+  "slope": 5,
+  "lith": [
+   "carbonate"
+  ],
+  "ice": 1,
+  "caves": 0,
+  "crater": 1,
+  "note": "A 23 km impact crater in polar desert with permafrost. Home of the NASA Haughton-Mars Project."
+ },
+ {
+  "source": "estimate",
+  "id": "deathvalley",
+  "name": "Death Valley",
+  "region": "California, USA",
+  "lat": 36.46,
+  "lon": -116.87,
+  "status": "known",
+  "elev": 0,
+  "precip": 60,
+  "ndvi": 0.04,
+  "mat": 25,
+  "dtr": 30,
+  "slope": 4,
+  "lith": [
+   "evaporite",
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "Salt pans, alluvial fans and the Ubehebe volcanic craters. A long-running test area for Mars rovers and instruments."
+ },
+ {
+  "source": "estimate",
+  "id": "mdrs",
+  "name": "Hanksville (MDRS)",
+  "region": "Utah, USA",
+  "lat": 38.41,
+  "lon": -110.79,
+  "status": "known",
+  "elev": 1350,
+  "precip": 150,
+  "ndvi": 0.06,
+  "mat": 11,
+  "dtr": 28,
+  "slope": 6,
+  "lith": [
+   "clay",
+   "sandstone"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "The Mars Society's Mars Desert Research Station, set among red mudstones and sandstones."
+ },
+ {
+  "source": "estimate",
+  "id": "dryvalleys",
+  "name": "McMurdo Dry Valleys",
+  "region": "Antarctica",
+  "lat": -77.5,
+  "lon": 161.8,
+  "status": "known",
+  "elev": 400,
+  "precip": 50,
+  "ndvi": 0,
+  "mat": -20,
+  "dtr": 10,
+  "slope": 12,
+  "lith": [
+   "granite",
+   "basalt"
+  ],
+  "ice": 1,
+  "caves": 0,
+  "crater": 0,
+  "note": "Among the coldest and driest ice-free land on Earth. A classic analog for Martian permafrost and polygons."
+ },
+ {
+  "source": "estimate",
+  "id": "holuhraun",
+  "name": "Holuhraun & Askja",
+  "region": "Iceland",
+  "lat": 64.87,
+  "lon": -16.83,
+  "status": "known",
+  "elev": 750,
+  "precip": 400,
+  "ndvi": 0.03,
+  "mat": -1,
+  "dtr": 10,
+  "slope": 3,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0.5,
+  "caves": 0,
+  "crater": 0,
+  "note": "A fresh 2014–15 basalt lava field next to Askja, where Apollo astronauts trained in geology."
+ },
+ {
+  "source": "estimate",
+  "id": "hawaii",
+  "name": "Mauna Kea / Mauna Loa",
+  "region": "Hawaii, USA",
+  "lat": 19.6,
+  "lon": -155.47,
+  "status": "known",
+  "elev": 2500,
+  "precip": 400,
+  "ndvi": 0.05,
+  "mat": 10,
+  "dtr": 18,
+  "slope": 6,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 1,
+  "crater": 0,
+  "note": "Basaltic tephra and lava tubes. Site of the HI-SEAS habitat and lunar regolith and resource-extraction tests."
+ },
+ {
+  "source": "estimate",
+  "id": "lanzarote",
+  "name": "Lanzarote",
+  "region": "Canary Islands, Spain",
+  "lat": 29.03,
+  "lon": -13.73,
+  "status": "known",
+  "elev": 300,
+  "precip": 110,
+  "ndvi": 0.05,
+  "mat": 20,
+  "dtr": 14,
+  "slope": 5,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 1,
+  "crater": 0,
+  "note": "Volcanic fields and long lava tubes. Used for ESA's PANGAEA astronaut geology training."
+ },
+ {
+  "source": "estimate",
+  "id": "riotinto",
+  "name": "Río Tinto",
+  "region": "Andalusia, Spain",
+  "lat": 37.69,
+  "lon": -6.59,
+  "status": "known",
+  "elev": 300,
+  "precip": 600,
+  "ndvi": 0.3,
+  "mat": 17,
+  "dtr": 18,
+  "slope": 9,
+  "lith": [
+   "ironox"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "An acidic, iron- and sulfate-rich river whose minerals (jarosite, hematite) resemble Meridiani Planum."
+ },
+ {
+  "source": "estimate",
+  "id": "svalbard",
+  "name": "Bockfjorden",
+  "region": "Svalbard, Norway",
+  "lat": 79.45,
+  "lon": 13.35,
+  "status": "known",
+  "elev": 200,
+  "precip": 400,
+  "ndvi": 0.05,
+  "mat": -5,
+  "dtr": 6,
+  "slope": 10,
+  "lith": [
+   "basalt",
+   "carbonate"
+  ],
+  "ice": 1,
+  "caves": 0,
+  "crater": 0,
+  "note": "Volcanic and carbonate rocks in permafrost. The AMASE expeditions tested Mars rover instruments here."
+ },
+ {
+  "source": "estimate",
+  "id": "meteor",
+  "name": "Meteor Crater",
+  "region": "Arizona, USA",
+  "lat": 35.03,
+  "lon": -111.02,
+  "status": "known",
+  "elev": 1700,
+  "precip": 250,
+  "ndvi": 0.08,
+  "mat": 13,
+  "dtr": 22,
+  "slope": 4,
+  "lith": [
+   "sandstone"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 1,
+  "note": "A 1.2 km, well-preserved impact crater used to train Apollo astronauts."
+ },
+ {
+  "source": "estimate",
+  "id": "cotm",
+  "name": "Craters of the Moon",
+  "region": "Idaho, USA",
+  "lat": 43.42,
+  "lon": -113.52,
+  "status": "known",
+  "elev": 1800,
+  "precip": 380,
+  "ndvi": 0.12,
+  "mat": 7,
+  "dtr": 20,
+  "slope": 3,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 1,
+  "crater": 0,
+  "note": "Basalt lava flows and lava tubes. A NASA field site for volcanic and cave studies."
+ },
+ {
+  "source": "estimate",
+  "id": "mistastin",
+  "name": "Mistastin Lake crater",
+  "region": "Labrador, Canada",
+  "lat": 55.88,
+  "lon": -63.31,
+  "status": "studied",
+  "elev": 350,
+  "precip": 850,
+  "ndvi": 0.35,
+  "mat": -4,
+  "dtr": 10,
+  "slope": 7,
+  "lith": [
+   "anorthosite"
+  ],
+  "ice": 0.5,
+  "caves": 0,
+  "crater": 1,
+  "note": "One of few impact craters in anorthosite, the main rock of the lunar highlands. Used for some lunar field studies, but heavily vegetated."
+ },
+ {
+  "source": "estimate",
+  "id": "allanhills",
+  "name": "Allan Hills blue ice",
+  "region": "Antarctica",
+  "lat": -76.7,
+  "lon": 159.7,
+  "status": "studied",
+  "elev": 2000,
+  "precip": 20,
+  "ndvi": 0,
+  "mat": -30,
+  "dtr": 8,
+  "slope": 4,
+  "lith": [
+   "ice",
+   "granite"
+  ],
+  "ice": 1,
+  "caves": 0,
+  "crater": 0,
+  "note": "Wind-scoured blue ice that concentrates meteorites, including the Mars meteorite ALH84001. Extreme, steady cold."
+ },
+ {
+  "source": "estimate",
+  "id": "dallol",
+  "name": "Dallol, Danakil Depression",
+  "region": "Ethiopia",
+  "lat": 14.24,
+  "lon": 40.3,
+  "status": "studied",
+  "elev": -120,
+  "precip": 150,
+  "ndvi": 0.02,
+  "mat": 34,
+  "dtr": 18,
+  "slope": 2,
+  "lith": [
+   "evaporite",
+   "ironox"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "Acidic, hypersaline hot springs on salt flats below sea level. Studied for the limits of life and for Mars-like sulfate and iron chemistry."
+ },
+ {
+  "source": "estimate",
+  "id": "qaidam",
+  "name": "Qaidam Basin (Lenghu)",
+  "region": "Qinghai, China",
+  "lat": 38.6,
+  "lon": 93.3,
+  "status": "studied",
+  "elev": 2800,
+  "precip": 20,
+  "ndvi": 0.02,
+  "mat": 3,
+  "dtr": 30,
+  "slope": 3,
+  "lith": [
+   "evaporite",
+   "clay"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "A high, cold, hyper-arid basin with salt crusts and large wind-carved ridges (yardangs)."
+ },
+ {
+  "source": "estimate",
+  "id": "puna",
+  "name": "Puna de Atacama (Antofalla)",
+  "region": "Catamarca, Argentina",
+  "lat": -25.5,
+  "lon": -67.6,
+  "status": "studied",
+  "elev": 3900,
+  "precip": 60,
+  "ndvi": 0.02,
+  "mat": 4,
+  "dtr": 35,
+  "slope": 8,
+  "lith": [
+   "evaporite",
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "A plateau near 4,000 m with thin air, very high UV, salt flats and young volcanoes. Known to microbiologists, rarely used for mission tests."
+ },
+ {
+  "source": "estimate",
+  "id": "kamil",
+  "name": "Kamil Crater",
+  "region": "East Uweinat, Egypt",
+  "lat": 22.02,
+  "lon": 26.09,
+  "status": "new",
+  "elev": 610,
+  "precip": 0.5,
+  "ndvi": 0,
+  "mat": 25,
+  "dtr": 32,
+  "slope": 2,
+  "lith": [
+   "sandstone"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 1,
+  "note": "A 45 m impact crater first spotted on satellite images in 2008, with its ejecta and iron-meteorite fragments still intact in hyper-arid desert."
+ },
+ {
+  "source": "estimate",
+  "id": "gilf",
+  "name": "Gilf Kebir Plateau",
+  "region": "New Valley, Egypt",
+  "lat": 23.3,
+  "lon": 25.9,
+  "status": "new",
+  "elev": 1000,
+  "precip": 1,
+  "ndvi": 0,
+  "mat": 23,
+  "dtr": 30,
+  "slope": 9,
+  "lith": [
+   "sandstone"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "A remote sandstone plateau cut by dry valleys, with steep scarps and wind-polished surfaces. Rarely surveyed as a planetary analog."
+ },
+ {
+  "source": "estimate",
+  "id": "whitedesert",
+  "name": "White Desert (Farafra)",
+  "region": "New Valley, Egypt",
+  "lat": 27.33,
+  "lon": 28.05,
+  "status": "studied",
+  "elev": 150,
+  "precip": 2,
+  "ndvi": 0.01,
+  "mat": 22,
+  "dtr": 26,
+  "slope": 3,
+  "lith": [
+   "carbonate"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "Chalk towers and yardangs carved by wind. Its carbonate bedrock is relevant to the carbonates Perseverance is studying at Jezero."
+ },
+ {
+  "source": "estimate",
+  "id": "sandsea",
+  "name": "Great Sand Sea",
+  "region": "Egypt / Libya",
+  "lat": 26,
+  "lon": 25,
+  "status": "new",
+  "elev": 250,
+  "precip": 1,
+  "ndvi": 0,
+  "mat": 24,
+  "dtr": 28,
+  "slope": 2,
+  "lith": [
+   "sandstone"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "Long linear mega-dunes in a sand sea. An analog for Martian dune fields and wind-driven sand transport."
+ },
+ {
+  "source": "estimate",
+  "id": "lut",
+  "name": "Dasht-e Lut",
+  "region": "Kerman, Iran",
+  "lat": 30.4,
+  "lon": 59.3,
+  "status": "new",
+  "elev": 300,
+  "precip": 30,
+  "ndvi": 0.01,
+  "mat": 28,
+  "dtr": 40,
+  "slope": 3,
+  "lith": [
+   "clay",
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "Satellites have measured ground temperatures near 70 °C here. Giant yardangs in old lake sediments look like Martian wind-eroded terrain."
+ },
+ {
+  "source": "estimate",
+  "id": "khaybar",
+  "name": "Harrat Khaybar",
+  "region": "Saudi Arabia",
+  "lat": 25.2,
+  "lon": 39.9,
+  "status": "new",
+  "elev": 1200,
+  "precip": 70,
+  "ndvi": 0.02,
+  "mat": 24,
+  "dtr": 28,
+  "slope": 4,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 1,
+  "crater": 0,
+  "note": "A young basaltic lava field with lava tubes such as Umm Jirsan, and almost no vegetation."
+ },
+ {
+  "source": "estimate",
+  "id": "bayuda",
+  "name": "Bayuda Volcanic Field",
+  "region": "Sudan",
+  "lat": 18.33,
+  "lon": 32.75,
+  "status": "new",
+  "elev": 500,
+  "precip": 40,
+  "ndvi": 0.02,
+  "mat": 29,
+  "dtr": 28,
+  "slope": 3,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "A dense field of cinder cones and maars on basalt plains in hyper-arid desert. Comparable in rock type to the lunar maria."
+ },
+ {
+  "source": "estimate",
+  "id": "tibesti",
+  "name": "Emi Koussi, Tibesti",
+  "region": "Chad",
+  "lat": 19.8,
+  "lon": 18.55,
+  "status": "new",
+  "elev": 3000,
+  "precip": 60,
+  "ndvi": 0.02,
+  "mat": 14,
+  "dtr": 25,
+  "slope": 12,
+  "lith": [
+   "basalt"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 0,
+  "note": "A large shield volcano with summit calderas rising above the Sahara. Its shape has been compared with Martian volcanoes such as Elysium Mons."
+ },
+ {
+  "source": "estimate",
+  "id": "wabar",
+  "name": "Wabar craters",
+  "region": "Rub' al Khali, Saudi Arabia",
+  "lat": 21.5,
+  "lon": 50.47,
+  "status": "new",
+  "elev": 200,
+  "precip": 30,
+  "ndvi": 0,
+  "mat": 27,
+  "dtr": 26,
+  "slope": 1,
+  "lith": [
+   "sandstone"
+  ],
+  "ice": 0,
+  "caves": 0,
+  "crater": 1,
+  "note": "Small impact craters among the dunes of the Empty Quarter, with impact glass and iron-meteorite fragments."
+ },
+ {
+  "source": "estimate",
+  "id": "fiskenaesset",
+  "name": "Fiskenæsset anorthosite",
+  "region": "Southwest Greenland",
+  "lat": 63.08,
+  "lon": -50.68,
+  "status": "new",
+  "elev": 300,
+  "precip": 700,
+  "ndvi": 0.15,
+  "mat": -1,
+  "dtr": 7,
+  "slope": 10,
+  "lith": [
+   "anorthosite"
+  ],
+  "ice": 0.5,
+  "caves": 0,
+  "crater": 0,
+  "note": "One of Earth's oldest anorthosite complexes, about 2.97 billion years old, beside the ice sheet. A cold stand-in for lunar highland rock."
+ },
+ {
+  "source": "gee",
+  "id": "scan-kharga-east",
+  "name": "Plateau east of Kharga Oasis",
+  "region": "New Valley, Egypt",
+  "lat": 25.133,
+  "lon": 30.913,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Best-scoring area in the Egypt scan for Jezero (86% in Earth Engine). Bare Eocene limestone plateau above the eastern Kharga escarpment: no measurable rain, flat to gently sloping. Part of a 3,000 km² belt of top-0.5% pixels around Kharga. Found by the Earth Engine scan; check it in satellite imagery before using it.",
+  "precip": 0.0,
+  "ndvi": 0.1,
+  "mat": 28.1,
+  "dtr": 16.3,
+  "elev": 327,
+  "slope": 6.2,
+  "ice": 0
+ },
+ {
+  "source": "gee",
+  "id": "scan-abutartur",
+  "name": "Abu Tartur Plateau (north)",
+  "region": "New Valley, Egypt",
+  "lat": 25.638,
+  "lon": 30.067,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Limestone plateau between Dakhla and Kharga, about 500 m high, also known for Egypt's largest phosphate deposit. Scored 85% for Jezero; rock-type guess from ASTER: carbonate. Found by the Earth Engine scan; check it in satellite imagery before using it.",
+  "precip": 0.1,
+  "ndvi": 0.09,
+  "mat": 27.7,
+  "dtr": 16.8,
+  "elev": 416,
+  "slope": 7.4,
+  "ice": 0
+ },
+ {
+  "source": "gee",
+  "id": "scan-kharga-edfu",
+  "name": "Limestone plateau between Kharga and Edfu",
+  "region": "New Valley, Egypt",
+  "lat": 24.525,
+  "lon": 31.075,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "The largest single candidate area (about 790 km²): a flat, bare limestone surface between Kharga Oasis and the Nile. Scored 84% for Jezero. Found by the Earth Engine scan; check it in satellite imagery before using it.",
+  "precip": 0.1,
+  "ndvi": 0.1,
+  "mat": 27.3,
+  "dtr": 17.6,
+  "elev": 323,
+  "slope": 1.5,
+  "ice": 0
+ },
+ {
+  "source": "gee",
+  "id": "scan-dakhla-north",
+  "name": "Plateau north of Dakhla Oasis",
+  "region": "New Valley, Egypt",
+  "lat": 25.867,
+  "lon": 28.692,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "A separate cluster of about 1,000 km² of top-scoring pixels on the plateau north of Dakhla. ASTER suggests a mix of carbonate and salt/sulfate-like surfaces. Found by the Earth Engine scan; check it in satellite imagery before using it.",
+  "precip": 0.0,
+  "ndvi": 0.1,
+  "mat": 25.6,
+  "dtr": 15.4,
+  "elev": 426,
+  "slope": 5.4,
+  "ice": 0
+ },
+ {
+  "source": "gee",
+  "id": "scan-kurkur",
+  "name": "Sinn el-Kaddab Plateau near Kurkur",
+  "region": "Aswan, Egypt",
+  "lat": 23.65,
+  "lon": 32.343,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Limestone plateau around Kurkur Oasis, about 60 km west of Aswan, with relict spring-fed carbonate (tufa) deposits. Scored 84% for Jezero; fossil spring carbonates are an interesting parallel to Jezero's lake carbonates. Found by the Earth Engine scan; check it in satellite imagery before using it.",
+  "precip": 0.2,
+  "ndvi": 0.09,
+  "mat": 31.3,
+  "dtr": 16.4,
+  "elev": 334,
+  "slope": 4.0,
+  "ice": 0
+ },
+ {
+  "source": "gee",
+  "id": "scan-nasser-east",
+  "name": "Eastern Desert east of Lake Nasser",
+  "region": "Aswan, Egypt",
+  "lat": 23.551,
+  "lon": 33.085,
+  "status": "new",
+  "lith": [
+   "clay"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "A 520 km² candidate area east of the northern end of Lake Nasser. Scored 84% for Jezero; rock-type guess: carbonate. Found by the Earth Engine scan; check it in satellite imagery before using it.",
+  "precip": 0.3,
+  "ndvi": 0.09,
+  "mat": 34.1,
+  "dtr": 16.9,
+  "elev": 266,
+  "slope": 4.4,
+  "ice": 0
+ },
+ {
+  "source": "gee",
+  "id": "scan-atacama-coast",
+  "name": "Atacama coast range (Tarapacá)",
+  "region": "Tarapacá, Chile",
+  "lat": -21.94,
+  "lon": -70.0,
+  "status": "new",
+  "lith": [
+   "evaporite"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Highest single 5 km pixel in the world scan for Jezero (84%). Hyper-arid coastal range of the Atacama, north of the studied Yungay site. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Salt deposits (evaporite) from ASTER. NASA EMIT (159 detections) finds no gypsum, and halite is invisible to it, so evaporite is kept."
+ },
+ {
+  "source": "gee",
+  "id": "scan-aksaichin",
+  "name": "Aksai Chin plateau",
+  "region": "Karakoram–Kunlun · disputed border area",
+  "lat": 35.55,
+  "lon": 79.52,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Centre of the largest top-0.5% area for Jezero in the world scan: a cold, high, dry plateau with salt lakes. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Carbonate from ASTER, confirmed by NASA EMIT: carbonate in 56% of 50 mineral detections."
+ },
+ {
+  "source": "gee",
+  "id": "scan-changtang",
+  "name": "Qiangtang (Changtang) plateau",
+  "region": "Northern Tibet",
+  "lat": 35.33,
+  "lon": 81.59,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Highest Arcadia score outside Antarctica in the world scan. Continuous, ice-rich permafrost at high altitude; we found no study matching it to Arcadia's buried ice. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds carbonate in 55% of 62 mineral detections, so it is scored as carbonate."
+ },
+ {
+  "source": "gee",
+  "id": "scan-victoria",
+  "name": "Victoria Island",
+  "region": "Canadian Arctic",
+  "lat": 71.57,
+  "lon": -107.73,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Largest top-0.5% area for Arcadia outside Antarctica: flat, cold polar lowland with permafrost. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER, so it is scored as neutral."
+ },
+ {
+  "source": "gee",
+  "id": "scan-haruj",
+  "name": "Al Haruj volcanic field",
+  "region": "Central Libya",
+  "lat": 27.07,
+  "lon": 17.82,
+  "status": "new",
+  "lith": [
+   "basalt"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar pit. A 45,000 km² field of fluid (pāhoehoe-type) basalt with inflation tumuli, the lava type that forms tubes; no lava tubes documented in our search. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type: Al Haruj is basalt (published geology); NASA EMIT cannot see basalt minerals, and the clay it detects is dust, so basalt is kept."
+ },
+ {
+  "source": "gee",
+  "id": "scan-qena-east",
+  "name": "Eastern Desert north-east of Qena",
+  "region": "Red Sea Governorate, Egypt",
+  "lat": 26.79,
+  "lon": 32.77,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Jezero in the world scan, in Egypt's Eastern Desert. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Carbonate from ASTER, confirmed by NASA EMIT: carbonate in 100% of 90 mineral detections."
+ },
+ {
+  "source": "gee",
+  "id": "scan-haruj-south",
+  "name": "Desert south of Al Haruj",
+  "region": "Libya",
+  "lat": 25.62,
+  "lon": 17.76,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Jezero in the world scan, south of the Al Haruj lava field. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Carbonate from ASTER, confirmed by NASA EMIT: carbonate in 67% of 99 mineral detections."
+ },
+ {
+  "source": "gee",
+  "id": "scan-ngari",
+  "name": "Ngari plateau",
+  "region": "Western Tibet",
+  "lat": 33.84,
+  "lon": 80.56,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Jezero and the lunar pit in the world scan. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds carbonate in 84% of 43 mineral detections, so it is scored as carbonate."
+ },
+ {
+  "source": "gee",
+  "id": "scan-ica",
+  "name": "Ica Desert",
+  "region": "Peru",
+  "lat": -14.71,
+  "lon": -75.62,
+  "status": "new",
+  "lith": [
+   "clay"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Jezero in the world scan: hyper-arid coastal desert of southern Peru. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Clay from ASTER; NASA EMIT agrees: clays, with carbonate in only 3% of 112 detections."
+ },
+ {
+  "source": "gee",
+  "id": "scan-moquegua",
+  "name": "Moquegua desert",
+  "region": "Southern Peru",
+  "lat": -17.45,
+  "lon": -71.21,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar pit in the world scan, at the northern end of the Atacama. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds clays and almost no carbonate (1% of 133 detections), so it is scored as clay."
+ },
+ {
+  "source": "gee",
+  "id": "scan-hohxil",
+  "name": "Hoh Xil plateau",
+  "region": "Northern Tibet",
+  "lat": 36.22,
+  "lon": 88.78,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Arcadia outside Antarctica: high, cold plateau with permafrost. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds carbonate in 95% of 37 mineral detections, so it is scored as carbonate."
+ },
+ {
+  "source": "gee",
+  "id": "scan-arkatag",
+  "name": "Arka Tag highlands",
+  "region": "Northern Tibet",
+  "lat": 36.81,
+  "lon": 85.23,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar pit in the world scan. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds carbonate in 68% of 56 mineral detections, so it is scored as carbonate."
+ },
+ {
+  "source": "gee",
+  "id": "scan-hala",
+  "name": "Qinghai highlands near Hala Lake",
+  "region": "Qinghai, China",
+  "lat": 37.93,
+  "lon": 97.04,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Arcadia outside Antarctica, east of the studied Qaidam Basin. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds carbonate in 66% of 73 mineral detections, so it is scored as carbonate."
+ },
+ {
+  "source": "gee",
+  "id": "scan-pamir",
+  "name": "Eastern Pamir plateau",
+  "region": "Xinjiang, China",
+  "lat": 38.2,
+  "lon": 74.81,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar pit in the world scan. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER; NASA EMIT finds carbonate in 93% of 27 mineral detections, so it is scored as carbonate."
+ },
+ {
+  "source": "gee",
+  "id": "scan-nunavut",
+  "name": "Arctic Nunavut (Gulf of Boothia coast)",
+  "region": "Nunavut, Canada",
+  "lat": 70.36,
+  "lon": -85.45,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for Arcadia outside Antarctica: cold polar lowland with permafrost. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER, so it is scored as neutral."
+ },
+ {
+  "source": "gee",
+  "id": "lavabeds",
+  "name": "Lava Beds National Monument",
+  "region": "California, USA",
+  "lat": 41.71,
+  "lon": -121.51,
+  "status": "known",
+  "lith": [
+   "basalt"
+  ],
+  "caves": 1,
+  "crater": 0,
+  "radius_km": null,
+  "note": "More than 750 lava-tube caves; site of NASA's BRAILLE Mars cave-analog project (rovers and life detection in lava tubes). Added as a documented lava-tube field to test the cave ranking."
+ },
+ {
+  "source": "gee",
+  "id": "elmalpais",
+  "name": "El Malpais National Monument",
+  "region": "New Mexico, USA",
+  "lat": 34.94,
+  "lon": -108.08,
+  "status": "known",
+  "lith": [
+   "basalt"
+  ],
+  "caves": 1,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Large lava tubes (some caves over 1 km) used as a lunar analog since 1970; Big Tubes area of the Zuni-Bandera field. Added as a documented lava-tube field to test the cave ranking."
+ },
+ {
+  "source": "gee",
+  "id": "undara",
+  "name": "Undara lava tubes",
+  "region": "Queensland, Australia",
+  "lat": -18.22,
+  "lon": 144.58,
+  "status": "studied",
+  "lith": [
+   "basalt"
+  ],
+  "caves": 1,
+  "crater": 0,
+  "radius_km": null,
+  "note": "One of the longest lava-tube systems on Earth (over 100 km, Bayliss Cave 1.3 km), in tropical savanna. Added as a documented lava-tube field to test the cave ranking."
+ },
+ {
+  "source": "gee",
+  "id": "jawa",
+  "name": "Harrat al-Shaam near Jawa",
+  "region": "Black Desert, Jordan",
+  "lat": 32.33,
+  "lon": 37.05,
+  "status": "new",
+  "lith": [
+   "basalt"
+  ],
+  "caves": 1,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Young pāhoehoe basalt with documented lava tunnels, including Al-Fahda (Khsheifa) Cave, about 920 m long. Added as a documented lava-tube field to test the cave ranking."
+ },
+ {
+  "source": "gee",
+  "id": "payenia",
+  "name": "Payenia lava flows near Puelén",
+  "region": "La Pampa, Argentina",
+  "lat": -37.25,
+  "lon": -67.73,
+  "status": "new",
+  "lith": [
+   "basalt"
+  ],
+  "caves": 1,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Very long pāhoehoe basalt flows with lava tunnels and caves (El Julepe cave, Cueva de Halada) in the Payenia volcanic province. Added as a documented lava-tube field to test the cave ranking."
+ },
+ {
+  "source": "gee",
+  "id": "scan-karakoram",
+  "name": "Eastern Karakoram",
+  "region": "Karakoram range",
+  "lat": 35.1,
+  "lon": 77.46,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Largest top-0.5% area for the lunar south pole in the world scan: high, glaciated mountains above 5,000 m. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER, so it is scored as neutral."
+ },
+ {
+  "source": "gee",
+  "id": "scan-baffin",
+  "name": "Cumberland Peninsula, Baffin Island",
+  "region": "Nunavut, Canada",
+  "lat": 67.13,
+  "lon": -65.33,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar south pole in the world scan: steep, glaciated Arctic mountains. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER, so it is scored as neutral."
+ },
+ {
+  "source": "gee",
+  "id": "scan-verkhoyansk",
+  "name": "Verkhoyansk Range",
+  "region": "Yakutia, Siberia",
+  "lat": 68.38,
+  "lon": 128.53,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar south pole in the world scan: steep, extremely cold mountains on continuous permafrost. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER, so it is scored as neutral."
+ },
+ {
+  "source": "gee",
+  "id": "scan-stelias",
+  "name": "Saint Elias Mountains",
+  "region": "Alaska–Yukon",
+  "lat": 61.42,
+  "lon": -141.69,
+  "status": "new",
+  "lith": [
+   "unknown"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Top-0.5% area for the lunar south pole in the world scan: very steep, heavily glaciated mountains. Found by the Earth Engine world scan at 5 km; values here are measured over a 10 km circle. Rock type unclear from ASTER, so it is scored as neutral."
+ },
+ {
+  "source": "gee",
+  "id": "scan-kharga-best",
+  "name": "Plateau south-east of Kharga Oasis",
+  "region": "New Valley, Egypt",
+  "lat": 24.774,
+  "lon": 31.108,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Best 10 km spot for Jezero in a 250 m Earth Engine scan of the Kharga area: flat Eocene limestone plateau about 45 km south-east of the first Kharga site, away from the escarpment. Carbonate from ASTER, confirmed by NASA EMIT at this exact spot: carbonate in 100% of 77 mineral detections."
+ },
+ {
+  "source": "gee",
+  "id": "scan-aksaichin-best",
+  "name": "Aksai Chin plateau (eastern part)",
+  "region": "Karakoram–Kunlun · disputed border area",
+  "lat": 35.428,
+  "lon": 79.947,
+  "status": "new",
+  "lith": [
+   "carbonate"
+  ],
+  "caves": 0,
+  "crater": 0,
+  "radius_km": null,
+  "note": "Best 10 km spot for Jezero in a 250 m Earth Engine scan of the Aksai Chin area (at the box edge). ASTER suggested carbonate, but NASA EMIT finds carbonate in only 11% of 45 detections here (clays 96%), so it is scored as clay: Aksai Chin’s carbonate is patchy."
+ }
+]

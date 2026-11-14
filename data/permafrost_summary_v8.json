@@ -1,0 +1,297 @@
+{
+ "atacama": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "haughton": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "deathvalley": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "mdrs": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "dryvalleys": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "holuhraun": {
+  "pfr": 0.0,
+  "zone": "isolated or none",
+  "ice": 0
+ },
+ "hawaii": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "lanzarote": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "riotinto": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "svalbard": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "meteor": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "cotm": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "mistastin": {
+  "pfr": 0.0,
+  "zone": "isolated or none",
+  "ice": 0
+ },
+ "allanhills": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "dallol": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "qaidam": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "puna": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "kamil": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "gilf": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "whitedesert": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "sandsea": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "lut": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "khaybar": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "bayuda": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "tibesti": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "wabar": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "fiskenaesset": {
+  "pfr": 0.0,
+  "zone": "isolated or none",
+  "ice": 0
+ },
+ "scan-kharga-east": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-abutartur": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-kharga-edfu": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-dakhla-north": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-kurkur": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-nasser-east": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-atacama-coast": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-aksaichin": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-changtang": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-victoria": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-haruj": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-qena-east": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-haruj-south": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-ngari": {
+  "pfr": 71.0,
+  "zone": "discontinuous",
+  "ice": 1
+ },
+ "scan-ica": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-moquegua": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-hohxil": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-arkatag": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-hala": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-pamir": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-nunavut": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "lavabeds": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "elmalpais": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "undara": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "jawa": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "payenia": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-karakoram": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-baffin": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-verkhoyansk": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-stelias": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ },
+ "scan-kharga-best": {
+  "pfr": null,
+  "zone": null,
+  "ice": null
+ },
+ "scan-aksaichin-best": {
+  "pfr": 100.0,
+  "zone": "continuous",
+  "ice": 1
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "source": "LROC QuickMap (quickmap.lroc.asu.edu), Object Inspector > Inspect, 64x64 px over each target box (~313 m/px), read 2026-11-14",
+ "note": "Diviner layers added to Inspect sources. Nighttime Soil Temperature (2011) gave 0.4-5.4, not physical surface temperatures (likely a relative/anomaly product), so night minimum uses the published ~95 K (Williams et al. 2017).",
+ "boxes": {
+  "moon-sp": {
+   "name": "Lunar south pole (Shackleton)",
+   "H_ppm": 164.484,
+   "FeO_wt": 6.43,
+   "roughness_100m": 1.248,
+   "height_m": -319.858,
+   "slope_deg": 23.52,
+   "omat": null,
+   "hparam_m": null,
+   "Tmax_global_K": 178.587,
+   "polar_summer_max_K": 165.888,
+   "polar_winter_min_K": 43.285,
+   "rock_abundance": null
+  },
+  "moon-mare": {
+   "name": "Mare Imbrium (Chang'e-3)",
+   "H_ppm": -1.367,
+   "FeO_wt": 21.077,
+   "roughness_100m": 0.776,
+   "height_m": -2649.29,
+   "slope_deg": 0.535,
+   "omat": 0.172,
+   "hparam_m": 0.065,
+   "Tmax_global_K": 358.698,
+   "night_soil_2011_raw": 0.371,
+   "rock_abundance": 0.006
+  },
+  "moon-pit": {
+   "name": "Mare Tranquillitatis pit",
+   "H_ppm": 53.046,
+   "FeO_wt": 18.387,
+   "roughness_100m": 0.791,
+   "height_m": -778.838,
+   "slope_deg": 0.559,
+   "omat": 0.284,
+   "hparam_m": 0.071,
+   "Tmax_global_K": 394.645,
+   "night_soil_2011_raw": 5.206,
+   "rock_abundance": 0.004
+  },
+  "moon-high": {
+   "name": "Descartes highlands (Apollo 16)",
+   "H_ppm": 77.394,
+   "FeO_wt": 7.673,
+   "roughness_100m": 1.146,
+   "height_m": 144.056,
+   "slope_deg": 3.965,
+   "omat": 0.131,
+   "hparam_m": 0.071,
+   "Tmax_global_K": 387.884,
+   "night_soil_2011_raw": 5.421,
+   "rock_abundance": 0.003
+  }
+ },
+ "layers": {
+  "H_ppm": "Lunar Prospector deconvolved hydrogen map, 0.5 deg bins (ug/g = ppm); negative values are noise around zero",
+  "FeO_wt": "Lunar Prospector iron abundance, 0.5 deg bins (FeO wt%)",
+  "slope_deg": "Terrain slope from QuickMap terrain model"
+ }
+}
